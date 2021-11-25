@@ -1,0 +1,14 @@
+header {
+    background-color: #FFF;
+}
+
+
+header nav li a.active,
+header .navbar-brand,
+header nav li a:hover {
+    color: #942dbd !important;
+}
+
+header nav li {
+    text-transform: uppercase;
+}
